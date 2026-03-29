@@ -436,6 +436,15 @@ Prefer separate heatmaps for:
 - infrastructure coercion
 - maritime pressure
 
+Prefer a compact near-square layout over either a very wide or very tall canvas.
+
+When several category heatmaps are shown together:
+
+- use a multi-row layout such as a two-column grid
+- aim for a roughly square overall figure when multiple heatmaps are combined
+- shorten date labels when possible, for example `03-21` instead of `2026-03-21`
+- optimize for easy reading inside markdown files and IDE preview panes, not only full-screen export
+
 Do not compress everything into a single opaque score if category separation is still informative.
 
 ## 3. Geographic Conflict Map
@@ -463,7 +472,23 @@ Preferred theater labels:
 - Yemen / Red Sea
 - Strait of Hormuz / Gulf
 
-Use arrows only for clear cross-theater trigger-response relationships.
+Do not leave the figure as a static bubble plot with unlabeled meaning.
+
+The map should communicate:
+
+- which actors are centered on which theater
+- the main weekly pressure paths
+- major chokepoints or cross-theater links
+
+Recommended construction:
+
+- show theaters as neutral anchor nodes
+- place actor nodes near their primary theater instead of directly on top of it
+- use directional arrows for clear weekly pressure paths such as `Israel -> Iran`, `Iran -> GulfHormuz`, `Iran -> Israel`, or `Hezbollah -> Israel`
+- include a legend for node size and arrow meaning
+- add short labels for the main relationship each arrow represents
+
+Use arrows only for clear cross-theater or actor-to-theater trigger-response relationships.
 
 ## 4. Trigger-Response Flow Diagram
 
