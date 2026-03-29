@@ -8,7 +8,7 @@ from matplotlib.lines import Line2D
 import textwrap
 
 
-ACTOR_ORDER = ["US", "Israel", "Iran", "Hezbollah", "IraqiPartnerForces", "Houthis"]
+ACTOR_ORDER = ["US", "Israel", "Iran", "Hezbollah", "Hashd", "Houthis"]
 METRIC_COLUMNS = [
     ("military_activity_score", "Military"),
     ("diplomatic_activity_score", "Diplomacy"),
@@ -33,7 +33,7 @@ ACTOR_COLORS: Dict[str, str] = {
     "Israel": "#ff7f0e",
     "Iran": "#2ca02c",
     "Hezbollah": "#d62728",
-    "IraqiPartnerForces": "#9467bd",
+    "Hashd": "#9467bd",
     "Houthis": "#8c564b",
 }
 
@@ -42,7 +42,7 @@ ACTOR_OFFSETS: Dict[str, tuple] = {
     "Israel": (0.0, 1.0),
     "Iran": (1.5, 0.0),
     "Hezbollah": (-0.8, 0.5),
-    "IraqiPartnerForces": (0.0, 1.0),
+    "Hashd": (0.0, 1.0),
     "Houthis": (0.0, -1.0),
 }
 
@@ -51,7 +51,7 @@ ACTOR_LABEL_OFFSETS: Dict[str, tuple] = {
     "Israel": (0.0, 0.5),
     "Iran": (0.0, -0.5),
     "Hezbollah": (0.0, 0.5),
-    "IraqiPartnerForces": (0.0, 0.5),
+    "Hashd": (0.0, 0.5),
     "Houthis": (0.0, -0.5),
 }
 
@@ -71,7 +71,7 @@ DISPLAY_LABELS: Dict[str, str] = {
     "Israel": "Israel",
     "Iran": "Iran",
     "Hezbollah": "Hezbollah",
-    "IraqiPartnerForces": "Iraqi Partner Forces",
+    "Hashd": "Hashd",
     "Houthis": "Houthis",
     "YemenRedSea": "Yemen / Red Sea",
     "GulfHormuz": "Hormuz / Gulf",
@@ -162,7 +162,7 @@ def relationship_specs() -> List[Dict[str, str]]:
         {"source": "US", "target": "GulfHormuz", "label": "security and bargaining focus", "curve": 0.2, "label_dx": -0.2, "label_dy": -0.4},
         {"source": "Hezbollah", "target": "Israel", "label": "active-bounded front", "curve": -0.1, "label_dx": -0.5, "label_dy": 0.0},
         {"source": "Houthis", "target": "YemenRedSea", "label": "latent entry signal", "curve": 0.2, "label_dx": 0.6, "label_dy": 0.0},
-        {"source": "IraqiPartnerForces", "target": "Iraq", "label": "reserve escalation lane", "curve": 0.2, "label_dx": 0.7, "label_dy": 0.0},
+        {"source": "Hashd", "target": "Iraq", "label": "reserve escalation lane", "curve": 0.2, "label_dx": 0.7, "label_dy": 0.0},
     ]
 
 

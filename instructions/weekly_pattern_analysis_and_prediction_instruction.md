@@ -45,7 +45,7 @@ Always use these inputs in this priority order:
 
 1. The last 7 daily briefs in `/home/masoud/Desktop/Projects/IRAN_vs_US/news`
 2. The most recent 2 to 4 weeks of daily briefs for continuity when needed
-3. The fundamentals files in `/home/masoud/Desktop/Projects/IRAN_vs_US/fundamentals`
+3. The fundamentals files in `/home/masoud/Desktop/Projects/IRAN_vs_US/fundamentals` (must explicitly include `who_is_trump.json` for US behavioral profiling)
 4. Any prior weekly pattern analysis files, if they exist
 5. Any prior prediction files, if they exist
 6. Any prior prediction review files or lessons file, if they exist
@@ -62,7 +62,7 @@ Always assess behavior for these actors when relevant:
 - Israel
 - Iran
 - Hezbollah
-- Iraqi partner forces / militias when clearly relevant
+- Hashd / militias when clearly relevant
 - Ansar Allah / Houthis
 
 You may include other directly relevant actors only if there is clear evidence that they materially affected the week.
@@ -166,7 +166,7 @@ Use this structure:
 - Role this week
 - Pattern assessment
 
-### Iraqi Partner Forces
+### Hashd
 - Role this week
 - Pattern assessment
 
@@ -202,14 +202,15 @@ Use this structure:
 After completing the pattern analysis:
 
 1. Convert patterns into next-week expectations.
-2. Produce one `most likely` scenario and at least two alternatives:
+2. Incorporate behavioral insights from `who_is_trump.json` when forecasting US actions and responses.
+3. Produce one `most likely` scenario and at least two alternatives:
    - `escalatory alternative`
    - `de-escalatory / negotiation alternative`
-3. Assign probabilities to the scenarios.
-4. Make sure scenario probabilities sum to 100%.
-5. For each actor, forecast likely behavior in observable terms.
-6. Include invalidators and early-warning indicators.
-7. State what would prove the forecast wrong quickly.
+4. Assign probabilities to the scenarios.
+5. Make sure scenario probabilities sum to 100%.
+6. For each actor, forecast likely behavior in observable terms.
+7. Include invalidators and early-warning indicators.
+8. State what would prove the forecast wrong quickly.
 
 ## Required Prediction Output Format
 
@@ -249,7 +250,7 @@ Use this structure:
 | Predicted Behavior | Confidence | Why | Invalidators |
 |--------------------|------------|-----|--------------|
 
-### Iraqi Partner Forces
+### Hashd
 | Predicted Behavior | Confidence | Why | Invalidators |
 |--------------------|------------|-----|--------------|
 

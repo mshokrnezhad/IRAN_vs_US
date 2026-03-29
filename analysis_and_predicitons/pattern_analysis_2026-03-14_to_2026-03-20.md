@@ -139,7 +139,7 @@ The week's overall state was sustained interstate war under a widening political
   - The best reading is active-bounded to active-expanding relevance, not clearly full-surge escalation.
   - This fits the structural pattern in which Hezbollah is Iran's most consequential partner, but not automatically operating at maximum intensity every week.
 
-### Iraqi Partner Forces
+### Hashd
 
 - Role this week:
   - Iraq remained a spillover theater, most visibly through the Baghdad embassy helipad strike on 2026-03-14, but no sustained Iraqi militia campaign became the main widening mechanism.
@@ -171,7 +171,7 @@ The week's overall state was sustained interstate war under a widening political
 | Israel                | Exploit military momentum, degrade Iran long term, suppress Hezbollah, shape postwar regional balance             | Dependence on U.S. support, incoming missile risk, Lebanon costs, growing divergence with U.S. target priorities        | Israel is likely to keep strikes high while accepting selective U.S. pressure on target choices rather than broad restraint                                                |
 | Iran                  | Preserve regime continuity, raise costs on enemies, sustain deterrence, avoid capitulation                        | Air and naval inferiority, leadership pressure, risk of triggering wider coalition entry, internal security burden      | Iran is likely to keep ambiguous shipping and energy coercion, public defiance, and distributed retaliation rather than formal surrender or total closure moves by default |
 | Hezbollah             | Support Iran, maintain deterrent credibility, impose pressure on Israel's north                                   | Massive Israeli retaliation, Lebanese humanitarian and political costs, uncertainty over Tehran's escalation preference | Continued relevance is likely, but a full independent surge is still conditional rather than automatic                                                                     |
-| Iraqi Partner Forces  | Retain escalation leverage against U.S. assets, preserve strategic relevance                                      | Risk of direct U.S. retaliation, Iraqi political limits, no sign of full mobilization                                   | Sporadic or symbolic pressure remains more likely than front-dominating activation                                                                                         |
+| Hashd  | Retain escalation leverage against U.S. assets, preserve strategic relevance                                      | Risk of direct U.S. retaliation, Iraqi political limits, no sign of full mobilization                                   | Sporadic or symbolic pressure remains more likely than front-dominating activation                                                                                         |
 | Ansar Allah / Houthis | Keep maritime pressure attractive, align with wider anti-U.S./anti-Israel posture, exploit sea-lane vulnerability | Counterstrikes, mixed attribution, competition with Hormuz-centered pressure for strategic attention                    | Maritime disruption incentives stay high, but observed weekly effects may continue to matter more than clearly attributable Houthi actions                                 |
 
 ## Pattern Confidence Assessment

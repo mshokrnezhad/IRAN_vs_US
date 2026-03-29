@@ -42,7 +42,7 @@
 | Iran would expand psychological threat signaling faster than operational expansion, including broader warnings beyond the core battlefield | Partially Correct | Iran did broaden threat rhetoric and warnings, but it also crossed new operational thresholds, including the reported Diego Garcia strike and the 2026-03-27 Prince Sultan Air Base attack | The direction was right, but the week showed operational expansion moving faster than forecast |
 | Hezbollah would remain an active but not necessarily fully surged front, helping keep Israeli pressure tied down in Lebanon | Correct | The Lebanon front remained active all week, with continued Hezbollah-linked exchanges and rising Lebanese costs, but did not become the war's dominant or synchronized maximum-force front | This was a solid read on Hezbollah's role in the weekly system |
 | Hezbollah would continue absorbing Israeli retaliation and contributing to high Lebanese conflict costs | Correct | Lebanese cumulative deaths kept rising above 1,100 and Israeli strikes in Beirut and southern Lebanon remained heavy | The retaliation-cost loop stayed visible throughout the week |
-| Iraqi partner forces would remain a latent or sporadic escalation channel rather than the baseline dominant front | Correct | The reviewed week did not show Iraqi militias becoming the primary widening mechanism, even as regional spillover continued elsewhere | This actor forecast was well calibrated |
+| Hashd would remain a latent or sporadic escalation channel rather than the baseline dominant front | Correct | The reviewed week did not show Iraqi militias becoming the primary widening mechanism, even as regional spillover continued elsewhere | This actor forecast was well calibrated |
 | Ansar Allah / Houthis would remain a plausible supportive mechanism for maritime disruption, but attribution should stay conditional unless clearer evidence appeared | Correct | Hormuz disruption remained central without requiring a Houthi-led explanation, and by 2026-03-27 the Houthis were signaling possible entry conditions rather than clearly dominating the week's maritime story | The forecast appropriately kept attribution conditional |
 | Shipping risk around Hormuz would stay elevated, with coercive ambiguity and selective disruption more likely than a simple open-versus-closed binary | Correct | Every daily brief kept Hormuz central, and the week evolved toward selective-access, toll, or carveout behavior rather than a straightforward declared closure | The cross-theater maritime forecast held very well |
 | U.S.-Israeli strikes would continue at high tempo while Iran mixed missiles, drones, and energy-pressure tactics rather than relying only on mass salvos | Correct | The week included repeated Israeli strikes, Iranian missiles and drones, Gulf alerts, base attacks, and energy-coercion threats | The forecast captured the multi-instrument nature of the conflict |
@@ -70,7 +70,7 @@
 - What happened: The Lebanon front remained active, Israeli retaliation remained heavy, and Hezbollah-linked exchanges continued without becoming the dominant theater
 - What was missed: The week was more significant for the sustained front effect than for any clearly new Hezbollah operational leap
 
-### Iraqi Partner Forces
+### Hashd
 - What was forecast: A latent or sporadic escalation channel rather than the main widening front
 - What happened: Iraq did not become the central theater of the week
 - What was missed: Very little; this remained one of the cleaner actor calls
@@ -117,7 +117,7 @@
   - The implied confidence that Israeli freedom of action would stay bounded mainly by U.S. target-restraint pressure
 - Which confidence calls were too low:
   - The baseline expectation that maritime coercion would remain the conflict's central organizing feature
-  - The expectation that Iraqi partner forces would stay secondary rather than becoming the main widening front
+  - The expectation that Hashd would stay secondary rather than becoming the main widening front
 - Which actor was hardest to estimate correctly:
   - The United States, because reinforcement, coercive bargaining, public optimism, intelligence reality, and no-ground-force messaging all pointed in different directions at once
 

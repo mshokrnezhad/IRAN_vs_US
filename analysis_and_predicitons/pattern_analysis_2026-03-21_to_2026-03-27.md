@@ -122,7 +122,7 @@ The week's overall state was coercive endurance war with managed bargaining thea
   - The most accurate label remains active-bounded rather than full-surge.
   - Hezbollah's strategic value remained high, but the week did not show it replacing Hormuz or direct Iran-U.S.-Israel exchange as the main mechanism of pressure.
 
-### Iraqi Partner Forces
+### Hashd
 - Role this week:
   - Iraqi militias were not the main observable mechanism in the March 21 to March 27 window, though Iraqi spillover and the broader risk to U.S. positions remained relevant in continuity.
 - Pattern assessment:
@@ -150,7 +150,7 @@ The week's overall state was coercive endurance war with managed bargaining thea
 | Israel | Exploit momentum, degrade Iranian future capability, stay outside diplomacy's brakes, keep Lebanon pressured | Dependence on U.S. support, continued inbound fire, risk of friction with Washington, Lebanon costs | Israel is likely to keep broadening sensitive target classes faster than talks can constrain them |
 | Iran | Sustain deterrence, avoid capitulation, raise global energy and military costs, preserve regime continuity | Air and naval inferiority, risk of wider coalition response, disputed battlefield claims, internal strain | Continued selective-control Hormuz pressure and retaliatory signaling are likelier than formal surrender or clean reopening |
 | Hezbollah | Keep pressure on Israel, support Iran, maintain deterrent relevance | Severe Israeli retaliation, Lebanese political and humanitarian costs, uncertainty over Tehran's preferred escalation lane | Continued active-bounded fighting is more likely than independent all-out front leadership |
-| Iraqi Partner Forces | Retain leverage against U.S. assets and preserve strategic relevance | Direct retaliation risk, Iraqi domestic constraints, lower salience than maritime and Gulf lanes this week | Latent or sporadic activation remains more likely than becoming the main front |
+| Hashd | Retain leverage against U.S. assets and preserve strategic relevance | Direct retaliation risk, Iraqi domestic constraints, lower salience than maritime and Gulf lanes this week | Latent or sporadic activation remains more likely than becoming the main front |
 | Ansar Allah / Houthis | Preserve maritime leverage, support anti-U.S./anti-Israel pressure, exploit sea-lane vulnerability | Counterstrikes, role competition with Hormuz-focused coercion, attribution ambiguity | Latent-entry signaling is likely to rise even if they remain a secondary observable mechanism next week |
 
 ## Pattern Confidence Assessment
@@ -161,7 +161,7 @@ The week's overall state was coercive endurance war with managed bargaining thea
 | Israel widened target categories faster than the diplomatic track could constrain them | High | Israel openly stood outside the talks and ended the week striking nuclear-linked and industrial targets |
 | Iran kept negotiations publicly closed while still using mediated channels and counterproposals | High | Denial and indirect contact coexisted repeatedly across the week |
 | Public claims about Iranian battlefield degradation outran intelligence-validated evidence | High | Reuters reporting on missile-arsenal confirmation sharply undercut triumphalist rhetoric |
-| Hezbollah and Iraqi partner forces remained structurally relevant but secondary to the week's main pressure mechanisms | Medium | Their strategic importance stayed high, but the daily evidence was thinner and less decisive than state-level missile, maritime, and Gulf dynamics |
+| Hezbollah and Hashd remained structurally relevant but secondary to the week's main pressure mechanisms | Medium | Their strategic importance stayed high, but the daily evidence was thinner and less decisive than state-level missile, maritime, and Gulf dynamics |
 
 ## Indicators To Watch Next Week
 - Whether the U.S. keeps extending deadlines or finally executes threatened strikes on Iranian energy infrastructure

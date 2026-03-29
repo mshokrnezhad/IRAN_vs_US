@@ -115,11 +115,11 @@ The week's overall state was high-intensity interstate war with multi-front regi
   - Its entry reinforced the historic pattern described in the fundamentals: Hezbollah remains Iran's most capable regional partner and the most credible mechanism for pressuring Israel from the northern front.
   - At the same time, the scale of its observed activity did not yet indicate an all-out maximum-force entry comparable to a full independent war effort.
 
-### Iraqi Partner Forces
+### Hashd
 - Role this week:
-  - No clearly confirmed major Iraqi militia operational role dominated the week's reporting, though AP and the fundamentals both framed Iraqi partner forces as part of the wider Iranian pressure architecture and regional risk environment.
+  - No clearly confirmed major Iraqi militia operational role dominated the week's reporting, though AP and the fundamentals both framed Hashd as part of the wider Iranian pressure architecture and regional risk environment.
 - Pattern assessment:
-  - The key pattern was latent capability rather than visible employment. Iraqi partner forces remained relevant as a standing escalation option against U.S. positions, but they were not the central observed driver in this seven-day window.
+  - The key pattern was latent capability rather than visible employment. Hashd remained relevant as a standing escalation option against U.S. positions, but they were not the central observed driver in this seven-day window.
   - That absence matters analytically because it suggests Iran did not fully synchronize every available partner front at once, consistent with the guardrail that Iranian-aligned actors should not be assumed to move in perfect lockstep.
 
 ### Ansar Allah / Houthis
@@ -143,7 +143,7 @@ The week's overall state was high-intensity interstate war with multi-front regi
 | Israel | Exploit operational momentum, weaken Iran's long-term threat network, suppress Hezbollah | Missile fire on Israel, dependence on U.S. support, risk of wider front activation | Israel is likely to keep offensive pressure high in Iran and Lebanon while avoiding a ground invasion of Iran |
 | Iran | Rebuild deterrence, preserve regime continuity, impose costs on coalition, avoid capitulation | Air and naval inferiority, leadership disruption, attrition of launchers and defenses, limited great-power rescue | Iran is likely to continue distributed retaliation and search for leverage rather than concede openly |
 | Hezbollah | Support Iran, maintain deterrence image, keep pressure on Israel's north | Massive Israeli retaliation risk, Lebanese costs, uncertainty over Tehran's preferred escalation level | Further controlled attacks are plausible, but full-scale escalation remains a choice rather than a certainty |
-| Iraqi Partner Forces | Pressure U.S. forces, signal network depth, preserve relevance | Risk of inviting direct U.S. retaliation, possible Iraqi political limits, no visible mass mobilization yet | They remain a reserve escalation lever more than an already-maximized front |
+| Hashd | Pressure U.S. forces, signal network depth, preserve relevance | Risk of inviting direct U.S. retaliation, possible Iraqi political limits, no visible mass mobilization yet | They remain a reserve escalation lever more than an already-maximized front |
 | Ansar Allah / Houthis | Raise regional and maritime costs, show network reach, align with anti-U.S./anti-Israel posture | Counterstrikes, geography, competition with other fronts for strategic attention | Maritime disruption incentives remain high even if operational visibility varies |
 
 ## Pattern Confidence Assessment
@@ -162,7 +162,7 @@ The week's overall state was high-intensity interstate war with multi-front regi
 - Further attacks on Gulf energy infrastructure, embassies, or bases
 - Visible U.S. naval escort operations in or near the Strait of Hormuz
 - Whether Hezbollah expands beyond controlled fire into heavier daily salvos or deeper cross-border action
-- Any confirmed activation of Iraqi partner forces against U.S. positions
+- Any confirmed activation of Hashd against U.S. positions
 - Clear evidence that Natanz or other nuclear sites are being systematically targeted rather than episodically struck
 - Public or attributed Omani, European, or other third-party mediation activity producing concrete contact
 - Signs that Gulf states are publicly or privately pressing Washington to narrow objectives

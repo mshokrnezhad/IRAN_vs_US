@@ -98,7 +98,7 @@ Use these actor labels:
 - `Israel`
 - `Iran`
 - `Hezbollah`
-- `IraqiPartnerForces`
+- `Hashd`
 - `Houthis`
 
 Only add another actor if it had material and repeated relevance in the source window.

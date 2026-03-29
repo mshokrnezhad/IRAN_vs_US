@@ -130,7 +130,7 @@ Use this structure:
 - What happened
 - What was missed
 
-### Iraqi Partner Forces
+### Hashd
 - What was forecast
 - What happened
 - What was missed

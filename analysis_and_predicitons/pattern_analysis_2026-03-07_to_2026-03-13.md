@@ -41,7 +41,7 @@
 - The United States and Israel maintained operational initiative, but U.S. behavior broadened beyond strike continuation into maritime protection, leadership-targeting pressure, and active energy-market management.
 - Iran's repeated pattern was not outright closure of the Strait of Hormuz, but calibrated coercive ambiguity: threaten oil flows, mine or menace shipping, raise market costs, and preserve room to deny full closure.
 - Israeli behavior shifted further toward explicit regime-collapse and leadership-delegitimization framing while keeping military pressure high in Iran and expanding operations in Lebanon.
-- Hezbollah moved from an active-bounded role toward an active-expanding one, while Iraqi partner forces remained relevant but did not become the main widening mechanism during the week.
+- Hezbollah moved from an active-bounded role toward an active-expanding one, while Hashd remained relevant but did not become the main widening mechanism during the week.
 - The strongest corrective to propaganda-heavy collapse narratives was behavioral evidence: U.S. intelligence reportedly judged the Iranian state durable, and senior Iranian figures appeared publicly despite continuing strikes.
 - Outside powers still sought restraint, but the more operationally meaningful external response was oil and shipping stabilization, not a viable ceasefire process.
 
@@ -122,7 +122,7 @@ The week's overall state was sustained high-intensity interstate war under an en
   - Relative to the prior week, Hezbollah looked hotter and more consequential.
   - Even so, the observed pattern still fell short of an unmistakable full-surge independent war effort. Hezbollah remained a meaningful but still subordinated escalation arm inside the wider Iran-Israel-U.S. conflict.
 
-### Iraqi Partner Forces
+### Hashd
 - Role this week:
   - Iraq mattered as a spillover theater, including reported attacks affecting Irbil, but no clearly confirmed Iraqi partner-force campaign became the central widening mechanism.
 - Pattern assessment:
@@ -150,7 +150,7 @@ The week's overall state was sustained high-intensity interstate war under an en
 | Israel | Exploit momentum, degrade Iran long term, raise pressure on Mojtaba, suppress Hezbollah | Dependence on U.S. support, northern-front costs, risk of overextension in Lebanon | Israel is likely to keep tempo high in Iran and Lebanon while continuing regime-collapse rhetoric |
 | Iran | Preserve regime continuity, raise coalition costs, keep deterrent credibility, avoid capitulation | Air and naval inferiority, isolation, risk of over-triggering wider intervention, leadership vulnerability | Iran is likely to keep using calibrated Hormuz pressure, drones, shipping risk, and public resilience signals rather than formal closure or surrender |
 | Hezbollah | Support Iran, keep pressure on Israel, maintain deterrent image | Heavy Israeli retaliation, Lebanese civilian and political costs, uncertainty over Tehran's escalation preference | Continued active-expanding pressure is plausible, but full-surge war remains a choice rather than the default |
-| Iraqi Partner Forces | Retain relevance, pressure U.S. positions, preserve escalation leverage | U.S. retaliation risk, Iraqi political constraints, no sign of full mobilization | Sporadic or limited activation remains more likely than dominant-front emergence |
+| Hashd | Retain relevance, pressure U.S. positions, preserve escalation leverage | U.S. retaliation risk, Iraqi political constraints, no sign of full mobilization | Sporadic or limited activation remains more likely than dominant-front emergence |
 | Ansar Allah / Houthis | Raise maritime costs, align with anti-U.S./anti-Israel pressure, exploit shipping vulnerability | Counterstrikes, attribution ambiguity, competition with Hormuz for strategic attention | Maritime disruption incentives remain high, especially if Hormuz pressure continues without full closure |
 
 ## Pattern Confidence Assessment
@@ -161,7 +161,7 @@ The week's overall state was sustained high-intensity interstate war under an en
 | Iran is using coercive ambiguity on Hormuz rather than committing to outright closure | High | Public threats, mining behavior, and shipping attacks coexisted with an explicit denial of full closure by the U.N. envoy |
 | U.S. pressure now includes energy-market management and leadership isolation, not just strikes | High | Strategic reserve planning, Russian-oil easing, and the reward offer all occurred inside the week |
 | Hezbollah has moved from active-bounded toward active-expanding | Medium | The trend is strong, but the threshold of full-surge war still remains uncertain |
-| Iraqi partner forces are not the main widening mechanism in this phase | Medium | The evidence is consistent, but future weeks could still change quickly if Tehran activates that front more deliberately |
+| Hashd are not the main widening mechanism in this phase | Medium | The evidence is consistent, but future weeks could still change quickly if Tehran activates that front more deliberately |
 | Regime-collapse narratives are weaker than some public rhetoric suggests | High | Intelligence reporting and visible public appearances directly undercut imminent-collapse claims |
 
 ## Indicators To Watch Next Week

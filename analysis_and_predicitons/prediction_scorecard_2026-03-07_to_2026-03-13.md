@@ -12,7 +12,7 @@
 - Hezbollah was directionally forecast correctly as active but not yet in full all-out war, but the week leaned more escalatory on the Lebanon front than the prediction implied.
 - The biggest miss was underweighting how quickly succession politics would become the defining development. Mojtaba Khamenei's formal selection on 2026-03-08 materially changed the command picture.
 - The forecast underpredicted how much the war's political economy would matter inside the week: record-scale strategic oil-release planning, Russian-oil easing, and direct energy-market management became part of the conflict response.
-- The forecast was also too ready to treat Iraqi partner forces as the most likely reserve escalation lever. In practice, the main widening mechanism remained maritime pressure, Gulf infrastructure attacks, and coercive ambiguity around Hormuz.
+- The forecast was also too ready to treat Hashd as the most likely reserve escalation lever. In practice, the main widening mechanism remained maritime pressure, Gulf infrastructure attacks, and coercive ambiguity around Hormuz.
 - Overall, the review points to a forecast that captured the war's operating logic but missed some of the week's most important mechanism shifts and political turning points.
 
 ## Forecast Quality Snapshot
@@ -20,7 +20,7 @@
 |----------|-------|-------|
 | Correct | 12 | Strong on campaign continuity, maritime risk, weak diplomacy, and broad actor behavior |
 | Partially Correct | 3 | Mostly on Hezbollah intensity, Iranian proxy use, and one cross-theater escalation call |
-| Wrong | 1 | Iraqi partner forces were overemphasized as the most likely rapid widening tool |
+| Wrong | 1 | Hashd were overemphasized as the most likely rapid widening tool |
 | Missed Development | 3 | Succession outcome, energy-policy response, and regime-resilience signaling were not forecast explicitly |
 | Right Direction / Wrong Mechanism | 1 | Wider pressure on U.S. interests did emerge, but mainly through shipping and Gulf disruption rather than clear Iraqi militia activation |
 
@@ -39,8 +39,8 @@
 | Iran would use partner networks selectively rather than activating every front at maximum intensity at once | Partially Correct | Hezbollah stayed active and the Iraqi theater saw spillover, but there was still no clearly synchronized maximum-intensity activation across Lebanon, Iraq, and every other proxy front | The forecast got the bounded, non-maximal pattern broadly right, but the regional spread was somewhat sharper than implied |
 | Hezbollah would sustain limited-to-moderate attacks without guaranteeing all-out war | Partially Correct | Hezbollah fire persisted and triggered expanded Israeli operations, but the tone by 2026-03-12 was more escalatory than a comfortably bounded secondary front | No full second war broke out, but the front leaned hotter than the forecast's baseline language suggested |
 | Hezbollah would absorb Israeli retaliation and raise Lebanese conflict costs | Correct | Lebanese casualty and displacement figures rose further, and Israeli strikes in Beirut and southern Lebanon continued | This feedback loop unfolded as forecast |
-| Iraqi partner forces would remain more of a latent escalation lever than an immediately dominant front | Right Direction / Wrong Mechanism | Iraq remained relevant as a spillover theater, but the most important widening pressure on U.S. interests came through Hormuz, merchant shipping, Gulf infrastructure, and broader regional coercion | The forecast was right that pressure would widen beyond Israel-Iran, but it overweighted Iraqi militia activation as the likely mechanism |
-| Iraqi partner forces were the most plausible reserve escalation tool if Tehran wanted to widen pressure on U.S. assets quickly | Wrong | No daily brief in the window showed a clearly confirmed Iraqi-militia campaign becoming the main escalation channel; maritime disruption and Gulf pressure were far more central | This was an actor-selection error, not a full escalation-logic error |
+| Hashd would remain more of a latent escalation lever than an immediately dominant front | Right Direction / Wrong Mechanism | Iraq remained relevant as a spillover theater, but the most important widening pressure on U.S. interests came through Hormuz, merchant shipping, Gulf infrastructure, and broader regional coercion | The forecast was right that pressure would widen beyond Israel-Iran, but it overweighted Iraqi militia activation as the likely mechanism |
+| Hashd were the most plausible reserve escalation tool if Tehran wanted to widen pressure on U.S. assets quickly | Wrong | No daily brief in the window showed a clearly confirmed Iraqi-militia campaign becoming the main escalation channel; maritime disruption and Gulf pressure were far more central | This was an actor-selection error, not a full escalation-logic error |
 | Maritime disruption would continue to raise shipping risk without an outright formal closure of Hormuz | Correct | Mines, ship hits, threats to oil flow, and ambiguity over closure all occurred; Iran's U.N. envoy explicitly said Tehran was not going to close Hormuz outright | This was one of the forecast's best-calibrated cross-theater calls |
 | Mediation would remain indirect and too weak to produce a settlement this week | Correct | No ceasefire or direct talks emerged; outside actors called for restraint, but operational diplomacy stayed secondary | The forecast correctly discounted diplomatic momentum |
 | Gulf pressure for restraint would increase even if public alignment against Iran continued | Correct | Saudi and UAE warnings hardened early in the week, Gulf states stayed under pressure, and partner defense burdens remained a visible issue | This dynamic appeared clearly in the daily briefs |
@@ -70,7 +70,7 @@
 - What happened: Hezbollah remained active and triggered heavier Israeli responses, especially by 2026-03-12
 - What was missed: The week ran somewhat hotter on the Lebanon front than the forecast's baseline implied
 
-### Iraqi Partner Forces
+### Hashd
 - What was forecast: Mostly latent reserve escalation potential, with limited activation more likely than dominant-front entry
 - What happened: Iraq mattered as spillover terrain, but no clearly confirmed Iraqi partner-force campaign became the main widening instrument
 - What was missed: The forecast overweighted Iraqi militias relative to maritime and Gulf mechanisms of escalation
@@ -94,7 +94,7 @@
 
 ## Why The Forecast Missed
 - Over-weighted signals:
-  - The prior week's logic that Iraqi partner forces were the most plausible reserve escalation lever
+  - The prior week's logic that Hashd were the most plausible reserve escalation lever
   - The idea that coalition burden would mainly show up as Gulf-state pressure on Washington rather than fast-moving energy-market intervention
 - Under-weighted signals:
   - The speed with which Iran's succession process could be resolved under wartime pressure
@@ -104,7 +104,7 @@
   - The forecast treated succession uncertainty as persistent, when it resolved almost immediately
   - It also slightly lagged the pace at which the Lebanon front moved from bounded pressure toward expansion risk
 - Actor-control errors:
-  - Iraqi partner forces were treated as too central to Tehran's widening toolkit
+  - Hashd were treated as too central to Tehran's widening toolkit
   - Hezbollah was read as somewhat more tightly bounded than the week justified
 - Propaganda traps:
   - The forecast did not explicitly stress-test U.S. victory and regime-collapse rhetoric against institutional durability indicators
@@ -113,7 +113,7 @@
 
 ## Calibration Notes
 - Which confidence calls were too high:
-  - The implicit weighting behind Iraqi partner forces as the most plausible rapid widening lever
+  - The implicit weighting behind Hashd as the most plausible rapid widening lever
   - The practical "boundedness" implied in the Hezbollah baseline
 - Which confidence calls were too low:
   - The expectation that shipping disruption would remain central was stronger than the medium-confidence language suggested
