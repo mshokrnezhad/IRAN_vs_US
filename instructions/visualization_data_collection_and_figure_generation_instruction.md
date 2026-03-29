@@ -29,6 +29,23 @@ For now, support only these figures:
 
 Do not prioritize other figures unless the dataset becomes more standardized.
 
+## Rendering Scripts
+
+After the CSV and notes files are created, render the final figures with:
+
+- `visualization_scripts/generate_pattern_figures.py`
+- `visualization_scripts/generate_prediction_figures.py`
+
+Dependencies file:
+
+- `visualization_scripts/requirements.txt`
+
+Install:
+
+```bash
+python -m pip install -r visualization_scripts/requirements.txt
+```
+
 ## Evidence Inputs
 
 Use these inputs in this order:
@@ -70,6 +87,8 @@ Then create:
 - `weekly_actor_summary_2026-03-22_to_2026-03-28.csv`
 - `forecast_objects_2026-03-29_to_2026-04-04.csv`
 - `figure_notes_2026-03-22_to_2026-03-28.md`
+
+Then render the figures from those files.
 
 ## Actor Set
 
@@ -626,8 +645,23 @@ Then:
 2. Build `visual_coding_...csv`
 3. Build `weekly_actor_summary_...csv`
 4. Build `forecast_objects_...csv` when forecasting is involved
-5. Generate the selected figure set
-6. Save `figure_notes_...md`
+5. Save `figure_notes_...md`
+6. Render the pattern figures:
+
+```bash
+python visualization_scripts/generate_pattern_figures.py \
+  --coding-csv visual_coding_YYYY-MM-DD_to_YYYY-MM-DD.csv \
+  --summary-csv weekly_actor_summary_YYYY-MM-DD_to_YYYY-MM-DD.csv \
+  --output-dir figures/pattern_YYYY-MM-DD_to_YYYY-MM-DD
+```
+
+7. Render the prediction figures:
+
+```bash
+python visualization_scripts/generate_prediction_figures.py \
+  --forecast-csv forecast_objects_YYYY-MM-DD_to_YYYY-MM-DD.csv \
+  --output-dir figures/prediction_YYYY-MM-DD_to_YYYY-MM-DD
+```
 
 ## Minimum Quality Standard
 
