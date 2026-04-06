@@ -35,3 +35,11 @@
 - Separate intelligence-validated attrition from public victory rhetoric. Damage claims can outrun confirmed battlefield effects and distort confidence in the next forecast.
 - When Israel is militarily aligned with Washington but publicly outside the diplomatic track, raise the probability that target categories will widen faster than negotiations can constrain them.
 - Forecast proxy actors with two fields: current operational role and latent entry conditions. This helps when a group like the Houthis is not yet the main mechanism but is openly signaling how it could join.
+
+### 2026-03-28 to 2026-04-03
+
+- When a proxy ends the prior week with visible entry-condition signaling, model **early-window activation** (first 48–72 hours) as its own branch instead of defaulting to “secondary for the full week.”
+- Track **non-U.S. Hormuz initiatives** separately from U.S. coalition solicitation: consumer blocs, U.K.-led forums, and bilateral Gulf–Iran technical protocols can advance while Washington publicly disclaims lead responsibility for the strait.
+- Add **U.S. air-war credibility** shocks (manned aircraft losses, CSAR episodes) as distinct from cumulative base drone or missile tolls; they can move domestic and escalation politics on a different timescale.
+- Treat **IRGC threats against named foreign commercial entities** as a forecastable escalation lane that widens risk beyond purely military targets even if kinetic follow-through is uncertain.
+- Distinguish **executed** infrastructure campaigns from **threatened** ones when scoring a week: repeated power-plant and bridge threats can intensify the coercive environment even if a full execution threshold is not crossed.
