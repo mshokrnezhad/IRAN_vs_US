@@ -46,6 +46,6 @@ None of this is certainty. It is a disciplined way to keep assumptions visible a
 
 Repository (Cursor-style agents, daily briefs, pattern + prediction markdown, figure scripts): https://lnkd.in/dd9uTasB
 
-hashtag#Iran hashtag#AgenticAI hashtag#Forecasting hashtag#AI hashtag#Cursor hashtag#USA hashtag#Israel
+#Iran #AgenticAI #Forecasting #LLM #Cursor #USA #Israel #War
 
-Figs: @260401_figs
+Figs: @260406_figs
