@@ -43,3 +43,12 @@
 - Add **U.S. air-war credibility** shocks (manned aircraft losses, CSAR episodes) as distinct from cumulative base drone or missile tolls; they can move domestic and escalation politics on a different timescale.
 - Treat **IRGC threats against named foreign commercial entities** as a forecastable escalation lane that widens risk beyond purely military targets even if kinetic follow-through is uncertain.
 - Distinguish **executed** infrastructure campaigns from **threatened** ones when scoring a week: repeated power-plant and bridge threats can intensify the coercive environment even if a full execution threshold is not crossed.
+
+### 2026-04-04 to 2026-04-10
+
+- When a mediator’s public framing (e.g., Pakistan on Lebanon) diverges from U.S./Israeli clarifications on the same ceasefire headline, treat **second-theater ambiguity** as a **high short-fuse risk** for immediate post-deal violence—not as a footnote to the main Iran–U.S. axis.
+- Model **“announced pause + implementation lag”** as its own branch: futures and rhetoric can **normalize** before **Hormuz tonnage** does; forecasts should score **physical transit metrics** separately from **price** relief.
+- Do not lock U.S. public emphasis to **kinetic-first** or **negotiation-minimized** for a full 7-day window when the week contains a **hard deadline** and active **third-party bridging**; **last-day swerves** toward visible deals have occurred in-sequence with maximal threats.
+- **Substantive diplomatic movement** can arrive via **bilateral/regional mediator channels** even when **UNSC**-style processes remain **stale**—do not fold all “breakthrough unlikely” judgments into a single institutional pathway.
+- Score **Israel–Lebanon/Hezbollah tempo** on its **own axis** from **U.S.–Iran** vertical pauses: **IAF** activity can **spike** exactly when Washington announces an Iran deal if **Lebanon** is **excluded** from that deal’s text.
+- If **de-escalatory** scenario weight assumes **multi-day mutual strike reduction** as a **precondition**, **raise** probability mass when **two-stage frameworks** and **mediator** **MIL/PM** **calls** are already visible in reporting, even if **behavior** is still **noisy**.
