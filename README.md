@@ -4,14 +4,30 @@ This repository is a structured analysis workspace for the ongoing Iran-U.S.-Isr
 
 The project contains four linked instruction layers in `instructions/`, plus background files in `fundamentals/` and the accumulated daily chronology in `news/`. The value of the repository is not just the collected information, but the workflow discipline: each stage has a defined input set, output format, and place in the sequence.
 
+**Project status (April 2026):** Active weekly forecasting has ended. The work demonstrated that agentic AI can support disciplined analysis and structured forecasting on a fast-moving geopolitical crisis; continuing prediction was stopped because key leadership behavior—including Donald Trump’s—often does not follow stable, legible patterns that rational-actor or continuity-based models assume, which makes reliable week-ahead probability assignment infeasible. The repository remains useful as a **methodology archive**, dataset of briefs and weekly artifacts, and reference for anyone reusing Cursor-style agent workflows in conflict research.
+
 ## Table of Contents
 
+- [What We Accomplished](#what-we-accomplished)
 - [Repository Purpose](#repository-purpose)
 - [Workflow Order](#workflow-order)
 - [Outputs](#outputs)
 - [Figure Rendering](#figure-rendering)
 - [Repository Structure](#repository-structure)
 - [Thank You](#thank-you-)
+
+## What We Accomplished
+
+Over roughly six weeks of operation (from late February through mid-April 2026), the project ran the full pipeline repeatedly and left behind a coherent artifact trail:
+
+- **Daily evidence base:** dated war briefs in `news/` (`daily_war_news_brief_YYYY-MM-DD.md`), built from official statements, wires, and same-day reporting under the sourcing rules in `instructions/daily_war_news_collection_instruction.md`.
+- **Weekly analysis and forecasts:** rolling pattern syntheses, scenario forecasts with explicit probability bands, and post-week scorecards in `analysis_and_predicitons/`, guided by `instructions/weekly_pattern_analysis_and_prediction_instruction.md` and `instructions/weekly_prediction_review_and_lessons_instruction.md`.
+- **Calibration loop:** consolidated lessons in `analysis_and_predicitons/prediction_lessons_master.md` so misses (for example under-weighted second-order axes such as the Houthi layer in an early window) could feed the next pass.
+- **Visualization layer:** structured CSVs, figure notes under `figures/`, and reproducible renders via `visualization_scripts/generate_pattern_figures.py` and `visualization_scripts/generate_prediction_figures.py` (heatmaps, geographic views, scenario panels).
+- **Context library:** thematic fundamentals in `fundamentals/` (sanctions architecture, bilateral history, nuclear timeline, chronology, etc.) to ground short-horizon reads in longer structural constraints.
+- **Public narrative:** draft LinkedIn write-ups tying methodology to sample outputs live in `linkedin/linkedin_posts.md`.
+
+Scientifically, the original objective was to test whether **agentic AI**—not a single chat answer, but a staged, human-auditable pipeline—could turn a **very fluid** real-world event into repeatable analysis, explicit forecasts, and reviewable graphics. That objective was met: the workflow stayed consistent while the conflict moved quickly, and the repository documents both the method and a concrete slice of the war period.
 
 ## Repository Purpose
 
@@ -167,4 +183,4 @@ Thank you for using and extending this workflow. The repository is built to supp
 - Expand the visualization layer carefully without overstating the data
 - Improve documentation and workflow clarity
 
-We look forward to improving the analysis process over time.
+The active forecasting track is closed for the reasons noted at the top of this README; you may still fork the instructions, reuse the visualization scripts, or extend the fundamentals layer for other crises or research designs.
